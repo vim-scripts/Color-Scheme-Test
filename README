@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=644
+
+Use this syntax file to test color schemes: edit your color scheme file, and to see what each color assignment does, set the color scheme to your color scheme then type the command ':setf cst'. As you continue to make changes, save your changes, and switch to another color scheme and back to your own to see changes. Each of the hilite group names will be colored in the color style your file defines. e.g. if your color scheme defines:
+
+hi operator		guifg=DarkGreen		gui=bold
+
+then the word 'operator' will appear in bold dark green.
+
+Place cst.vim in your syntax directory and go forth and create color :-)
+
+Tom Kimpton.
+
+
